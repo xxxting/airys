@@ -13,7 +13,7 @@
 		<!-- 忽略web.xml文件 因为用的servlet3.0来开发web项目 -->
 		<failOnMissingWebXml>false</failOnMissingWebXml>
 		<!-- 自定义版本标签 -->
-		<spring.version>5.1.7.RELEASE</spring.version>
+		<spring.version>5.2.20.RELEASE</spring.version>
 	</properties>
 
 	<!-- 配置项目所需的第三方jar包 -->
